@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/myRealestateLisitngMedia/static/css/main.33a0e5d0.css",
+    "main.js": "/myRealestateLisitngMedia/static/js/main.1fb45624.js",
+    "static/media/Home_video.mp4": "/myRealestateLisitngMedia/static/media/Home_video.1bda3035571a5971eb6f.mp4",
+    "static/media/video.jpg": "/myRealestateLisitngMedia/static/media/video.f5e4057081784ddd154c.jpg",
+    "static/media/client4.png": "/myRealestateLisitngMedia/static/media/client4.4c5bd540554dbe2f5438.png",
+    "static/media/videography.jpg": "/myRealestateLisitngMedia/static/media/videography.e5feac10e46f453a7b36.jpg",
+    "static/media/4.jpg": "/myRealestateLisitngMedia/static/media/4.bc8fe7b80ebe9ad8fef4.jpg",
+    "static/media/matterport.jpg": "/myRealestateLisitngMedia/static/media/matterport.14fdba72624d788404d0.jpg",
+    "static/media/main.png": "/myRealestateLisitngMedia/static/media/main.9478a05d2050e695f7d2.png",
+    "static/media/client5.png": "/myRealestateLisitngMedia/static/media/client5.a7cfd81192e56ccd1a1d.png",
+    "static/media/photography.jpeg": "/myRealestateLisitngMedia/static/media/photography.045bb51fc7754cdb706b.jpeg",
+    "static/media/client1.png": "/myRealestateLisitngMedia/static/media/client1.df12822ba5f2456d26c2.png",
+    "index.html": "/myRealestateLisitngMedia/index.html",
+    "main.33a0e5d0.css.map": "/myRealestateLisitngMedia/static/css/main.33a0e5d0.css.map",
+    "main.1fb45624.js.map": "/myRealestateLisitngMedia/static/js/main.1fb45624.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33a0e5d0.css",
+    "static/js/main.1fb45624.js"
+  ]
+}
